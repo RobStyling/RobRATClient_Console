@@ -1,0 +1,12 @@
+c:\users\robin\documents\visual studio 2015\Projects\Trojan Client\Trojan Client\bin\Debug\Trojan Client.exe.config
+c:\users\robin\documents\visual studio 2015\Projects\Trojan Client\Trojan Client\bin\Debug\Trojan Client.exe
+c:\users\robin\documents\visual studio 2015\Projects\Trojan Client\Trojan Client\bin\Debug\Trojan Client.pdb
+c:\users\robin\documents\visual studio 2015\Projects\Trojan Client\Trojan Client\obj\Debug\Trojan Client.csprojResolveAssemblyReference.cache
+c:\users\robin\documents\visual studio 2015\Projects\Trojan Client\Trojan Client\obj\Debug\Trojan Client.exe
+c:\users\robin\documents\visual studio 2015\Projects\Trojan Client\Trojan Client\obj\Debug\Trojan Client.pdb
+C:\Users\Robin\Desktop\Trojan Client\Trojan Client\bin\Debug\Trojan Client.exe.config
+C:\Users\Robin\Desktop\Trojan Client\Trojan Client\obj\Debug\Trojan Client.exe
+C:\Users\Robin\Desktop\Trojan Client\Trojan Client\obj\Debug\Trojan Client.pdb
+C:\Users\Robin\Desktop\Trojan Client\Trojan Client\obj\Debug\Trojan Client.csprojResolveAssemblyReference.cache
+C:\Users\Robin\Desktop\Trojan Client\Trojan Client\bin\Debug\Trojan Client.exe
+C:\Users\Robin\Desktop\Trojan Client\Trojan Client\bin\Debug\Trojan Client.pdb
