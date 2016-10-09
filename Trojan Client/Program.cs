@@ -13,10 +13,10 @@ namespace Trojan_Client
         static void Main(string[] args)
         {
             Console.ForegroundColor = ConsoleColor.Green;
-            Console.Title = "Rob Trojan Client - Offline";
             TcpClient Connector = new TcpClient();
         GetConnection:
             Console.WriteLine("Enter a Server IP:");
+            Console.Title = "Rob Trojan Client - Offline";
             string IP = Console.ReadLine();
             try
             {
@@ -42,6 +42,8 @@ namespace Trojan_Client
                 {
                     Console.WriteLine("COMMANDS");
 
+                    Console.WriteLine("Essential!");
+
                     Console.WriteLine("OPENSITE!!!!---http://example.com");
 
                     Console.WriteLine("MESSAGE!!!!---message here");
@@ -49,6 +51,20 @@ namespace Trojan_Client
                     Console.WriteLine("REBOOT!!!!---Time Here");
 
                     Console.WriteLine("SHUTDOWN!!!!---Time Here");
+
+                    Console.ReadKey();
+
+                    Console.Clear();
+
+                    Console.WriteLine("Fun Commands!");
+
+                    Console.WriteLine("HIDETASKBAR!!!!---");
+
+                    Console.WriteLine("SHOWTASKBAR!!!!---");
+
+                    Console.ReadKey();
+
+                    Console.Clear();
                 }
                 else
                 {
