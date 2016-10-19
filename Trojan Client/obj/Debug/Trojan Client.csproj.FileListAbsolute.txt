@@ -16,3 +16,9 @@ C:\Users\Robin\Documents\GitHub\TroClient_Console\Trojan Client\bin\Debug\Trojan
 C:\Users\Robin\Documents\GitHub\TroClient_Console\Trojan Client\obj\Debug\Trojan Client.csprojResolveAssemblyReference.cache
 C:\Users\Robin\Documents\GitHub\TroClient_Console\Trojan Client\obj\Debug\Trojan Client.exe
 C:\Users\Robin\Documents\GitHub\TroClient_Console\Trojan Client\obj\Debug\Trojan Client.pdb
+C:\Users\Admin\Documents\GitHub\TroClient_Console\Trojan Client\bin\Debug\Trojan Client.exe.config
+C:\Users\Admin\Documents\GitHub\TroClient_Console\Trojan Client\bin\Debug\Trojan Client.exe
+C:\Users\Admin\Documents\GitHub\TroClient_Console\Trojan Client\bin\Debug\Trojan Client.pdb
+C:\Users\Admin\Documents\GitHub\TroClient_Console\Trojan Client\obj\Debug\Trojan Client.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\TroClient_Console\Trojan Client\obj\Debug\Trojan Client.exe
+C:\Users\Admin\Documents\GitHub\TroClient_Console\Trojan Client\obj\Debug\Trojan Client.pdb

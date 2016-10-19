@@ -61,6 +61,10 @@ namespace Trojan_Client
                     Console.WriteLine("HIDETASKBAR!!!!---");
 
                     Console.WriteLine("SHOWTASKBAR!!!!---");
+                    
+                    Console.WriteLine("HIDEDESKTOPICONS!!!!---");
+                    
+                    Console.WriteLine("SHOWDESKTOPICONS!!!!---");
 
                     Console.ReadKey();
 
