@@ -51,6 +51,10 @@ namespace Trojan_Client
                     Console.WriteLine("REBOOT!!!!---Time Here");
 
                     Console.WriteLine("SHUTDOWN!!!!---Time Here");
+                    
+                    Console.WriteLine("CMDCOMMAND!!!!---Command Here");
+                    
+                    Console.WriteLine("LOGOFF!!!!---");
 
                     Console.ReadKey();
 
@@ -65,6 +69,10 @@ namespace Trojan_Client
                     Console.WriteLine("HIDEDESKTOPICONS!!!!---");
                     
                     Console.WriteLine("SHOWDESKTOPICONS!!!!---");
+                    
+                    Console.WriteLine("HIDETASKMANAGER!!!!---");
+                    
+                    Console.WriteLine("SHOWTASKMANAGER!!!!---");
 
                     Console.ReadKey();
 
